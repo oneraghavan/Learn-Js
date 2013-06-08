@@ -41,3 +41,13 @@ enum       ,export    ,extends   ,final  ,float   ,goto          ,implements
 import     ,int       ,interface ,long   ,native  ,package       ,private   
 protected  ,public    ,short     ,static ,super   ,synchronized  ,throws   ,transient
 */
+/*Apart from these words , javascript uses few names for objects and its function , Using these will not 
+throw a error , but will affect the internal funtions of javascript.So avoid using these too.Those are as follows.
+
+arguments, Array , Boolean , Date , decodeURI, decodeURIComponent
+encodeURI, encodeURIComponent , Error , eval , EvalError , Function 
+Infinity, isFinite, isNaN, JSON, Math, NaN, Number, Object, parseFloat
+parseInt, RangeError, ReferenceError, RegExp, String, SyntaxError
+TypeError, undefined, URIError
+
+*/
