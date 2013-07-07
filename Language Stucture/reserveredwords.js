@@ -1,5 +1,5 @@
 //reserverd keywords are names that the language uses itself. You cannot use any of these as identifiers.
-//the following are the words you connot you.
+//the following are the words you connot use.
 /*
 break    ,   else     , instanceof  , true
 case     ,   false    , new         , try
